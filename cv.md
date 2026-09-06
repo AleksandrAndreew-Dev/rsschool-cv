@@ -14,7 +14,7 @@ I am currently studying Full-Stack Development and applying my knowledge to real
 - **Telegram:** [t.me/Aleksandr_Andreew_Dev](https://t.me/Aleksandr_Andreew_Dev)
 - **LinkedIn:** [linkedin.com/in/aleksandr-andreew-dev](https://www.linkedin.com/in/aleksandr-andreew-dev)
 - **Discord:** aleksandr7268
-- **Codewars:** [codewars.com/users/Summertime%20Sadness](https://www.codewars.com/users/Summertime%20Sadness)
+- **Codewars:** [codewars.com/users/AleksandrAndreew-Dev](https://www.codewars.com/users/AleksandrAndreew-Dev)
 
 ## Currently Learning
 
