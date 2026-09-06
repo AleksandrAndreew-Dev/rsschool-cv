@@ -9,12 +9,12 @@ I am currently studying Full-Stack Development and applying my knowledge to real
 ## Contact Information
 
 - **Email:** [aleksandrandrph@gmail.com](mailto:aleksandrandrph@gmail.com)
-- **GitHub:** [AleksandrAndreew-Dev](https://github.com/AleksandrAndreew-Dev)
+- **GitHub:** [github.com/AleksandrAndreew-Dev](https://github.com/AleksandrAndreew-Dev)
 - **Portfolio:** [aleksandrandreew-dev.github.io](https://aleksandrandreew-dev.github.io)
-- **Telegram:** [Aleksandr Andreew](https://t.me/Aleksandr_Andreew_Dev)
-- **LinkedIn:** [Aleksandr Andreew](https://www.linkedin.com/in/aleksandr-andreew-dev)
+- **Telegram:** [t.me/Aleksandr_Andreew_Dev](https://t.me/Aleksandr_Andreew_Dev)
+- **LinkedIn:** [linkedin.com/in/aleksandr-andreew-dev](https://www.linkedin.com/in/aleksandr-andreew-dev)
 - **Discord:** aleksandr7268
-- **Codewars:** [Aleksandr Andreew](https://www.codewars.com/users/Summertime%20Sadness)
+- **Codewars:** [codewars.com/users/Summertime%20Sadness](https://www.codewars.com/users/Summertime%20Sadness)
 
 ## Currently Learning
 
