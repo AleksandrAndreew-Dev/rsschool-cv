@@ -49,6 +49,14 @@ The project uses an **AI-assisted development approach**, with AI tools used for
 
 **Project:** [Novamedika-LTS](https://github.com/AleksandrAndreew-Dev/Novamedika-LTS)
 
+#### Code Sample
+
+```
+function multiply(a, b){
+  return a * b
+}
+```
+
 ## Education
 
 ### freeCodeCamp
