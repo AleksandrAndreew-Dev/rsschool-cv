@@ -13,7 +13,7 @@ I am currently studying Full-Stack Development and applying my knowledge to real
 - **Portfolio:** [aleksandrandreew-dev.github.io](https://aleksandrandreew-dev.github.io)
 - **Telegram:** [t.me/Aleksandr_Andreew_Dev](https://t.me/Aleksandr_Andreew_Dev)
 - **LinkedIn:** [linkedin.com/in/aleksandr-andreew-dev](https://www.linkedin.com/in/aleksandr-andreew-dev)
-- **Discord:** aleksandr7268
+- **Discord:** Aleksandr (@AleksandrAndreew-Dev
 - **Codewars:** [codewars.com/users/AleksandrAndreew-Dev](https://www.codewars.com/users/AleksandrAndreew-Dev)
 
 ## Currently Learning
