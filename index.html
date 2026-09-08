@@ -10,7 +10,7 @@
         href="style.css">
 </head>
 
-<<div class="wrapper">
+<div class="wrapper">
   <header>
     <nav>
       <ul>
@@ -30,14 +30,17 @@
            width="200" />
       <h1>Aleksandr Andreew | Full Stack Developer</h1>
     </section>
-    <section id="about">
+
+    <section id="about"
+             class="about">
       <h2>About Me</h2>
       <p>
-        I am a Full Stack Developer transitioning from a
-        10-year career in pharmacy. I have experience
-        with Python, React, Docker, and CI/CD, and I’m
-        interested in building useful and reliable IT
-        solutions for healthcare.
+        Full Stack Developer transitioning from a 10-year career in pharmacy.
+      </p>
+      <p>
+        Experience with Python, React, Docker,
+        CI/CD.
+      <p>Interested in building reliable IT solutions for healthcare.
       </p>
     </section>
 
@@ -57,9 +60,6 @@
                  stroke-linejoin="round"
                  aria-hidden="true">
               <rect x="2"
-                    <<<<<<<
-                    Updated
-                    upstream
                     ry="2"></rect>
               <line x1="8"
                     y1="21"
@@ -173,7 +173,8 @@
       </ul>
     </section>
 
-    <section id="skills">
+    <section id="skills"
+             class="skills">
       <h2>Currently Learning</h2>
       <ul>
         <li>
@@ -188,115 +189,119 @@
         <li>Tools: Git, Redis, Celery</li>
       </ul>
     </section>
-    <section id="experience">
-      <h2>Experience</h2>
-      <h3>Trainee Full Stack Developer</h3>
-      <p>Novamedika, Minsk | April 2025 – Present</p>
-      <p>
-        Applying Full Stack Development skills while
-        working on a web application for the medical and
-        pharmaceutical industry.
-      </p>
-      <p>
-        The project uses an AI-assisted development
-        approach, with AI tools used for code generation,
-        debugging, and exploring technical solutions.
-      </p>
+    <div class="info">
+      <section id="experience"
+               class="experience">
+        <h2>Experience</h2>
+        <h3>Trainee Full Stack Developer</h3>
+        <p>Novamedika, Minsk | April 2025 – Present</p>
+        <p>
+          Applying Full Stack Development skills while
+          working on a web application for the medical and
+          pharmaceutical industry.
+        </p>
+        <p>
+          The project uses an AI-assisted development
+          approach, with AI tools used for code generation,
+          debugging, and exploring technical solutions.
+        </p>
 
-      <ul>
-        <li>
-          Using Python, FastAPI, React, PostgreSQL, and
-          Docker in a real project.
-        </li>
-        <li>
-          Worked on migrating the backend from Django to
-          FastAPI with AI assistance while studying
-          asynchronous programming.
-        </li>
-        <li>
-          Optimized the import of 100,000+ products into
-          PostgreSQL, reducing processing time from 30
-          minutes to 2 seconds.
-        </li>
-        <li>
-          Worked on a two-step product filtering system
-          that reduced the booking process by 40% based on
-          the number of clicks.
-        </li>
-        <li>
-          Worked on a Telegram bot with Aiogram for
-          customer feedback and online consultations.
-        </li>
-        <li>
-          Applied Docker, Docker Compose, Traefik, and
-          GitHub Actions for deployment and CI/CD.
-        </li>
-        <li>
-          Used Celery and Redis for background tasks and
-          notifications.
-        </li>
-        <li>
-          Practiced JWT authentication, role-based access
-          control, data encryption, and activity logging.
-        </li>
-      </ul>
-      <p>
-        Project:
-        <a href="https://github.com/AleksandrAndreewDev/NovamedikaLTS"
-           target="_blank">Pharmaceutical platform</a>
-      </p>
-    </section>
+        <ul>
+          <li>
+            Using Python, FastAPI, React, PostgreSQL, and
+            Docker in a real project.
+          </li>
+          <li>
+            Worked on migrating the backend from Django to
+            FastAPI with AI assistance while studying
+            asynchronous programming.
+          </li>
+          <li>
+            Optimized the import of 100,000+ products into
+            PostgreSQL, reducing processing time from 30
+            minutes to 2 seconds.
+          </li>
+          <li>
+            Worked on a two-step product filtering system
+            that reduced the booking process by 40% based on
+            the number of clicks.
+          </li>
+          <li>
+            Worked on a Telegram bot with Aiogram for
+            customer feedback and online consultations.
+          </li>
+          <li>
+            Applied Docker, Docker Compose, Traefik, and
+            GitHub Actions for deployment and CI/CD.
+          </li>
+          <li>
+            Used Celery and Redis for background tasks and
+            notifications.
+          </li>
+          <li>
+            Practiced JWT authentication, role-based access
+            control, data encryption, and activity logging.
+          </li>
+        </ul>
+        <p>
+          Project:
+          <a href="https://github.com/AleksandrAndreewDev/NovamedikaLTS"
+             target="_blank">Pharmacist Consultation & Medication Booking</a> (Live Demo awailable upon request)
+        </p>
+      </section>
 
-    <section id="code-sample">
-      <h2>Code Sample</h2>
-      <pre><code>
+      <section id="code-sample">
+        <h2>Code Sample</h2>
+        <pre><code>
 function multiply(a, b){
   return a * b;
 }</code></pre>
-    </section>
-    <section id="education">
-      <h2>Education</h2>
-      <h3>freeCodeCamp</h3>
-      <p>
-        JavaScript Algorithms and Data Structures
-        Completed — February 2026
-      </p>
-      <h3>Amazon Web Services</h3>
-      <p>
-        AWS Cloud Practitioner Essentials Completed — July
-        2026
-      </p>
-      <h3>freeCodeCamp</h3>
-      <p>Relational Databases In progress</p>
-    </section>
+      </section>
+      <section id="education">
+        <h2>Education</h2>
+        <h3>freeCodeCamp</h3>
+        <p>
+          JavaScript Algorithms and Data Structures
+          Completed — February 2026
+        </p>
+        <h3>Amazon Web Services</h3>
+        <p>
+          AWS Cloud Practitioner Essentials Completed — July
+          2026
+        </p>
+        <h3>freeCodeCamp</h3>
+        <p>Relational Databases In progress</p>
+      </section>
 
-    <section id="previous-experience">
-      <h2>Previous Experience</h2>
-      <h3>Pharmacy Manager</h3>
-      <p>Medtechprom 2021 – April 2024</p>
-      <ul>
-        <li>
-          Managed a pharmacy team and created staff
-          schedules.
-        </li>
-        <li>
-          Optimized staff planning and operational
-          processes.
-        </li>
-        <li>
-          Gained experience in communication, teamwork,
-          and task management.
-        </li>
-      </ul>
-    </section>
+      <section id="previous-experience"
+               class="previous-experience">
+        <h2>Previous Experience</h2>
+        <h3>Pharmacy Manager</h3>
+        <p>Medtechprom 2021 – April 2024</p>
+        <ul>
+          <li>
+            Managed a pharmacy team and created staff
+            schedules.
+          </li>
+          <li>
+            Optimized staff planning and operational
+            processes.
+          </li>
+          <li>
+            Gained experience in communication, teamwork,
+            and task management.
+          </li>
+        </ul>
+      </section>
 
-    <section id="languages">
-      <h2>Languages</h2>
-      <ul>
-        <li>English: B1</li>
-        <li>Russian: Native</li>
-      </ul>
-    </section>
+      <section id="languages">
+        <h2>Languages</h2>
+        <ul>
+          <li>English: B1</li>
+          <li>Russian: Native</li>
+        </ul>
+      </section>
+    </div>
   </main>
   <footer>
     <ul>
@@ -316,12 +321,16 @@ function multiply(a, b){
              href="https://github.com/AleksandrAndreew-Dev"
              target="_blank"
              rel="noopener noreferrer">
-            github.com/AleksandrAndreew-Dev
+            AleksandrAndreew-Dev
           </a>
         </p>
       </li>
       <li>
-        <a href="https://rs.school/courses/javascript">JS Full-Stack</a>
+
+        <a href="https://rs.school/courses/javascript"><img src="./src/images/rs-school-logo.svg"
+               alt="RS School Logo"
+               width="100"
+               class="rs-logo"></a>
       </li>
       <li>2026</li>
     </ul>
