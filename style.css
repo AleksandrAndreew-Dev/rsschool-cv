@@ -3,3 +3,60 @@
   margin: 0;
   padding: 0;
 }
+
+.wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 1rem;
+
+  margin: 20px 0;
+  padding: 1rem;
+}
+
+.hero img {
+  border-radius: 40px;
+  height: 200px;
+  width: auto;
+}
+
+section {
+  margin-bottom: 20px;
+  border: 1px solid black;
+  text-align: left;
+}
+
+section ul {
+  padding-left: 40px;
+}
+
+.contacts ul,
+.skills ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.rs-logo {
+  width: 50px;
+  height: auto;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+}
+
+ul {
+  list-style: none;
+}
+
+nav li {
+  padding: 0.5rem;
+}
